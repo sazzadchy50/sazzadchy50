@@ -1,6 +1,6 @@
+![Web development](https://media.licdn.com/dms/image/D5616AQELjlUAXd2KCA/profile-displaybackgroundimage-shrink_350_1400/0/1702120451104?e=1707350400&v=beta&t=nhMBXkfJd_MkCKzWGB4qVA0gcVOJ5qk8IFtSrv4UQcI)
 ### Hi there 👋, my name is Sazzad Hussen Chowdhury
 #### Web development
-![Web development](https://media.licdn.com/dms/image/D5616AQELjlUAXd2KCA/profile-displaybackgroundimage-shrink_350_1400/0/1702120451104?e=1707350400&v=beta&t=nhMBXkfJd_MkCKzWGB4qVA0gcVOJ5qk8IFtSrv4UQcI)
 
 I am Front end web developer, is not just about writing code; it's about crafting digital experiences that captivate and inspire. I have a passion for learning and sharing my knowledge with others. Specializing in HTML, CSS, TAILWIND, JAVASCRIPT, and REACT, I bring a creative spark to the digital sphere, transforming concepts into visually compelling experiences.
 
