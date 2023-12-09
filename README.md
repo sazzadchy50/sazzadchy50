@@ -24,11 +24,15 @@ I am Front end web developer who is not just about writing code; it's about craf
   <a href="https://www.linkedin.com/in/marketer-sazzad/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
   </a>
+</div
+  
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadchy50)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzadchy50&show_icons=true&count_private=true)  
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadchy50)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzadchy50&show_icons=true&count_private=true)  
-
+### Activity  Streak:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sazzadchy50)  
