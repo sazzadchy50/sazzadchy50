@@ -36,4 +36,3 @@ I am Front end web developer who is not just about writing code; it's about craf
 
 ### Activity  Streak:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sazzadchy50)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sazzadchy50&theme=dark&hide_border=true)](https://git.io/streak-stats)
